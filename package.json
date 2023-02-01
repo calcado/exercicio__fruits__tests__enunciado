@@ -1,10 +1,9 @@
 {
   "name": "fruits-test",
   "version": "1.0.0",
-  "main": "index.js",
-  "type":"module",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon src/index.ts"
+    "dev": "nodemon src/server.ts"
   },
   "keywords": [],
   "author": "",
