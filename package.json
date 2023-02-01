@@ -2,8 +2,7 @@
   "name": "fruits-test",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
-  "scripts": {
+   "scripts": {
     "dev": "nodemon src/index.ts"
   },
   "keywords": [],
